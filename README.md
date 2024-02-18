@@ -23,20 +23,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./My_Screenshot.png)
+![image](https://github.com/Ventiator/Social-links-profile-Frontendmentor-/assets/101021525/78048ee3-6315-4a4c-9871-aee0e34d4fee)
+
 
 ### Links
 
--   Solution URL: [Social Profile Card](https://github.com/Albrt78/socialprofilecard.github.io)
--   Live Site URL: [Social Profile Card](https://albrt78.github.io/socialprofilecard.github.io/)
+-   Live Site URL: [Social Profile Card](https://social-links-profile-frontendmentor.vercel.app/)
 
 ### Built with
 
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   Mobile-first workflow
--   [Bootstrap5](https://getbootstrap.com) - CSS framework
 
 ## Author
 
--   Frontend Mentor - [@Albrt78](https://www.frontendmentor.io/profile/Albrt78)
+-   Frontend Mentor - [@Ventiator](https://www.frontendmentor.io/profile/Ventiator)
