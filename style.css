@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+:root{ 
+    --green: hsl(75, 94%, 57%);
+    --White: hsl(0, 0%, 100%);
+    --Grey: hsl(0, 0%, 20%);
+    --DarkGrey: hsl(0, 0%, 12%);
+    --oBlack: hsl(0, 0%, 8%);
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+    display: flex;
+    min-height: 100vh;
+    background-color: var(--oBlack);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 14px;
+    
+}
+
+.container .card{
+    padding: 2.5rem;
+    border-radius: 12px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    max-height: 615px;
+    min-width: 380px;
+    background-color: var(--DarkGrey);
+
+
+}
+
+img{
+    max-width: 90px;
+    border-radius: 200px;
+    margin-bottom: 1.8rem;
+
+}
+
+h2.name{
+    font-size: 1.5rem;
+    color: var(--White);
+    padding-bottom: 0.625rem;
+
+}
+
+h4.region{
+    color: var(--green);
+
+}
+
+p.text{
+    color: var(--White);
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+}
+
+.card button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 310px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid var(--DarkGrey);
+    background-color: var(--Grey);
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
