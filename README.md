@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/Ventiator/Social-links-profile-Frontendmentor-/assets/101021525/78048ee3-6315-4a4c-9871-aee0e34d4fee)
+![image](![image](https://github.com/Ventiator/Social-links-profile-Frontendmentor-/assets/101021525/bf208402-11fc-47de-a5fb-a45ce89f8d63)
+)
 
 
 ### Links
